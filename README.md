@@ -20,12 +20,13 @@ A curated list of free and useful public APIs for developers, students, and curi
 ### Books & Media
 
 - [**Open Library API**](https://openlibrary.org/developers/api) - Metadata about millions of books.
-- [**iTunes Search API**](https://developer.apple.com/library/archive/documentation/AudioVideo/Conceptual/iTuneSearchAPI/) - Search for music, apps, movies, and more.
+- [**iTunes Search API**](https://developer.apple.com/library/archive/documentation/AudioVideo/Conceptual/iTuneSearchAPI) - Search for music, apps, movies, and more.
 
 ### Geography & World
 
 - [**REST Countries**](https://restcountries.com) - Country data: flags, currency, codes, and more.
 - [**Open-Meteo**](https://open-meteo.com) - Free and open-source weather forecasts.
+- [**REST Countries**](https://restcountries.com) - Get information about countries.
 
 ### Productivity
 
