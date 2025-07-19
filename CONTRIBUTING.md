@@ -13,6 +13,8 @@ This project is a curated list of free and useful APIs: your help makes it bette
 
 ## ✅ How to Add an API
 
+Open a pull request or an issue with your change. Keep it minimal and focused.
+
 1. Make sure the API is:
    - Publicly accessible
    - Free to use
@@ -24,8 +26,6 @@ This project is a curated list of free and useful APIs: your help makes it bette
       It will turn out like this:
       
       - [**Dog CEO API**](https://dog.ceo/dog-api) - Random pictures of dogs.
-
-3. Open a pull request or an issue with your change. Keep it minimal and focused.
 
 ## 🛠️ Technical Guidelines
 
