@@ -38,6 +38,10 @@ A curated list of free and useful public APIs for developers, students, and curi
 - [**Bored API**](https://www.boredapi.com) - Suggests activities when you're bored.
 - [**Yes/No API**](https://yesno.wtf) - Returns a random yes/no answer with a gif.
 
+### Information
+
+- [**GitHub REST API**](https://api.github.com) - Retrieve information on GitHub users, repositories, gists and more.
+
 ## Disclaimer
 
 This list is maintained by the community. We are not affiliated with any of the listed APIs. Always check the official documentation and terms of use before integrating any service.
