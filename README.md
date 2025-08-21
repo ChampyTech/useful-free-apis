@@ -41,6 +41,10 @@ A curated list of free and useful public APIs for developers, students, and curi
 
 - [GitHub REST API](https://api.github.com): Retrieve information on GitHub users, repositories, gists and more.
 
+## 🙏 Contributing
+
+Open a pull request or an issue. Even small contributions are welcome!
+
 ## ⚠️ Disclaimer
 
 This list is maintained by the community. We are not affiliated with any of the listed APIs. Always check the official documentation and terms of use before integrating any service.
