@@ -1,4 +1,4 @@
-# 🔨 A Curated List of Useful Public APIs
+# 🔨 A Curated List of Useful Free APIs
 
 A curated list of free and useful public APIs for developers, students, and curious minds.
 
