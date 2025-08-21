@@ -21,11 +21,11 @@ Open a pull request or an issue with your change. Keep it minimal and focused.
    - No API key or OAuth required
 2. Add it to the correct category (or create a new category) in the README using this format:
 
-      ```- [**Name**](url): short description.```
+      ```- [Name](url): short description.```
       
       It will turn out like this:
       
-      - [**Dog CEO API**](https://dog.ceo/dog-api): Random pictures of dogs.
+      - [Dog CEO API](https://dog.ceo/dog-api): Random pictures of dogs.
 
 ## 🛠️ Technical Guidelines
 
