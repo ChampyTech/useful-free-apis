@@ -9,7 +9,12 @@ A curated list of free and useful public APIs for developers, students, and curi
 
 📬 **Want to contribute?** Check the [CONTRIBUTING.md](CONTRIBUTING.md) file and open a pull request or an issue. Even small contributions are welcome!
 
-## 📝 Contents
+## 🔨 APIs
+
+### Table of Contents
+
+> [!TIP]
+> Use **Ctrl+F** (Windows/Linux/Chromebook) or **⌘+F** (Mac) to search through the collection and find exactly what you need.
 
 - [Animals](#animals)
 - [Books & Media](#books--media)
