@@ -21,6 +21,7 @@ A curated list of free and useful public APIs for developers, students, and curi
 - [Geography & World](#geography--world)
 - [Productivity](#productivity)
 - [Random & Fun](#random--fun)
+- [Information](#information)
 
 ### Animals
 
