@@ -11,10 +11,10 @@ A curated list of free and useful public APIs for developers, students, and curi
 
 ## 🔨 APIs
 
-### Table of Contents
-
 > [!TIP]
 > Use **Ctrl+F** (Windows/Linux/Chromebook) or **⌘+F** (Mac) to search through the collection and find exactly what you need.
+
+### Table of Contents
 
 - [Animals](#animals)
 - [Books & Media](#books--media)
