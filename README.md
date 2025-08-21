@@ -53,3 +53,7 @@ Open a pull request or an issue. Even small contributions are welcome!
 ## ⚠️ Disclaimer
 
 This list is maintained by the community. We are not affiliated with any of the listed APIs. Always check the official documentation and terms of use before integrating any service.
+
+## 🎫 License
+
+This project is licensed under the [MIT License](LICENSE.md).
